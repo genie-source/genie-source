@@ -1,8 +1,8 @@
 Hi there 👋 I'm Jinkyung Lee <br/>
-I'm currently a senior student at Hankuk University of Foreign Studies.<br/>
-I'm interested in backend development, database.<br/>
+I'm a senior student at Hankuk University of Foreign Studies.<br/>
+I'm currently focused on data pipeline engineering, LLM application development, and agent design.<br/>
 At present, I'm studying and building things — and writing about them on my blog.<br/>
-I hope to grow as a developer who understands systems deeply. ☀️
+I hope to grow as an engineer who understands both the data layer and the systems built on top of it. ☀️
 <br/>
 <br/>
 #### 🛠 Skills
